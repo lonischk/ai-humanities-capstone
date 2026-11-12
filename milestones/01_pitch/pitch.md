@@ -19,16 +19,16 @@ Open-access typologies, ware descriptions, and excavation publications on [perio
 
 ## Why AI?
 <!-- What could an AI system help you see or do here, and where might it mislead? -->
-TODO
+A language model can hold a dialogue, accept feature descriptions in everyday language, and match them against ware descriptions via retrieval (RAG). Without AI, a beginner has to work through identification keys by hand. The risks: the model may confuse similar wares, invent features, or sound more certain than the evidence allows. To counter this, the system will show its source with every answer, offer several candidates instead of one "solution," and refer to experts for final identification.
 
 ## Who is it for?
 <!-- Who might use what you build? -->
-TODO
+Archaeology students, volunteers at museums and excavations, and interested members of the public who want first orientation on a find.
 
 ## Your team
 <!-- Who is involved, and what does each person bring? -->
-TODO
+Individual project. I bring a BA in Archaeology and Sociology as well as practical skills in Python and data preparation. I will implement the system with local tools (Ollama).
 
 ## Concerns
 <!-- The biggest technical or ethical uncertainty you can foresee -->
-TODO
+Text descriptions cannot replace handling and seeing a sherd, so some distinguishing features may not be expressible in words. Technically, small local models sometimes follow sources poorly, which I will test and document. Ethically, results must stay clearly labeled as suggestions so that nobody misclassifies finds or adopts wrong dates.
