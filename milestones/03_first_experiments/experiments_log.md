@@ -161,5 +161,5 @@ To confirm the identity of the sherd, I would need to know more information, suc
 
 **Overall:** Without sources, both small local models produce plausible-sounding but often wrong suggestions and never cite anything. A prompt improves the format and removes the most obvious wrong regions, but also creates new problems (forced weak candidates, inconsistent rule-following). This motivates the next layers: a stricter prompt (v002) and retrieval from a curated open-access collection, evaluated on a fixed question set with known answers.
 
-**Overall:** Without a prompt and without sources, both small local models invent ware names. [Add what the prompt changed.] This motivates the next layers: a stricter prompt and retrieval from a curated open-access collection.
-| TODO  | TODO              | TODO              |
+**Overall:** Without a prompt and without sources, both small local models invent ware names. This motivates the next layers: a stricter prompt and retrieval from a curated open-access collection.
+
