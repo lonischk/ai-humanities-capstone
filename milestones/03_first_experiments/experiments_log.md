@@ -11,8 +11,8 @@ Prompt version: none
 Layer: baseline
 
 **Question asked:**
-> Q1: A sherd is reddish-brown, hard-fired, has fine sand temper and a smooth surface. What kind of pottery could it be?
-> Q2:A sherd is grey, fired in a reducing atmosphere, wheel-thrown, with a burnished surface and rouletted decoration. What kind of pottery could it be?
+> Q1: A sherd is reddish-brown, hard-fired, has fine sand temper and a smooth surface. What kind of pottery could it be?  
+> Q2:A sherd is grey, fired in a reducing atmosphere, wheel-thrown, with a burnished surface and rouletted decoration. What kind of pottery could it be?   
 > Q3: A rim sherd is coarse, handmade, tempered with crushed shell, soft, and has a sooty black exterior. What kind of pottery could it be?
 
 **Output:**
