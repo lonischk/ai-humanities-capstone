@@ -12,12 +12,12 @@ Layer: baseline
 
 **Question asked:**
 > Q1: A sherd is reddish-brown, hard-fired, has fine sand temper and a smooth surface. What kind of pottery could it be?
-> Q2: A sherd is grey, fired in a reducing atmosphere, wheel-thrown, with a burnished surface and rouletted decoration. ...
-> Q3: A rim sherd is coarse, handmade, tempered with crushed shell, soft, and has a sooty black exterior. ...
+> Q2:A sherd is grey, fired in a reducing atmosphere, wheel-thrown, with a burnished surface and rouletted decoration. What kind of pottery could it be?
+> Q3: A rim sherd is coarse, handmade, tempered with crushed shell, soft, and has a sooty black exterior. What kind of pottery could it be?
 
 **Output:**
 
-> - Q1 llama: Based on the characteristics you described, it's likely that the sherd is a piece of ancient Greek pottery, specifically from the Archaic period (around 8th-6th centuries BCE).
+*Q1 llama*: Based on the characteristics you described, it's likely that the sherd is a piece of ancient Greek pottery, specifically from the Archaic period (around 8th-6th centuries BCE).
 
 The reddish-brown color and smooth surface suggest that it was fired at a relatively high temperature, which is typical of Greek pottery from this period. The fine sand temper is also consistent with Greek pottery, which often used a type of sand called "pyroclastic" to create a strong and durable glaze.
 
@@ -31,7 +31,7 @@ Some possible options could be:
 
 If you have more information or context about the sherd, I may be able to provide a more specific identification.
 
-> - Q2 llama: Based on your description, it's likely that the sherd is from ancient Roman pottery. Here's why:
+*Q2 llama*: Based on your description, it's likely that the sherd is from ancient Roman pottery. Here's why:
 
 1. Grey color: Roman pottery often had a grey or brownish color, which was achieved by firing in a reducing atmosphere.
 2. Wheel-thrown: Roman potters used the potter's wheel to create symmetrical shapes, which would be consistent with a wheel-thrown piece.
@@ -40,7 +40,7 @@ If you have more information or context about the sherd, I may be able to provid
 
 The combination of these characteristics suggests that the sherd is likely from Roman pottery, possibly from the 1st or 2nd centuries AD. However, without further information or analysis, it's difficult to pinpoint the exact type of pottery or the specific region it came from.
 
-> - Q3 llama: Based on your description of the rim sherd, it's likely to be from a type of pottery that was used in ancient or traditional settings. Here are a few possibilities:
+*Q3 llama*: Based on your description of the rim sherd, it's likely to be from a type of pottery that was used in ancient or traditional settings. Here are a few possibilities:
 
 1. **Ceramic beads**: Rim shreds with a coarse, handmade texture and a sooty black exterior might be from ceramic beads. These beads were often used in jewelry or decorative objects.
 2. **African or Asian terracotta**: The combination of a coarse, handmade texture and a sooty black exterior is consistent with some types of terracotta pottery from Africa or Asia. These types of pottery often featured coarse, unglazed surfaces.
@@ -73,8 +73,8 @@ Layer: prompted
 > Same Q1–Q3 as in Experiment 1.
 
 **Output:**
-> Key excerpts (full texts in `docs/m3_outputs.md`):
-> - Q1 llama: Based on the features provided, here are three possible ware types for the sherd:
+
+*Q1 llama*: Based on the features provided, here are three possible ware types for the sherd:
 
 1. **Redware**: The reddish-brown color and hard-fired firing temperature suggest a redware pottery. The fine sand temper is consistent with the production of redware, which often used sand as a tempering material. Redware typically has a smooth surface, which aligns with the description.
 2. **Earthenware with feldspathic temper**: The presence of fine sand as a tempering material is also consistent with earthenware wares that have been tempered with feldspar, a type of rock that contains feldspars. The reddish-brown color and hard-fired firing temperature are also characteristic of feldspathic tempered earthenwares. The smooth surface could be indicative of a well-made piece.
@@ -82,7 +82,7 @@ Layer: prompted
 
 It's essential to note that a specialist must examine the sherd more closely to make a definitive identification. Some features, such as the hardness, surface treatment, and decoration, are not mentioned in the description.
 
-> - Q3 qwen: Based on the features you've described, this pottery sherd could potentially be from several types of Mediterranean or Near Eastern pottery:
+*Q3 qwen*: Based on the features you've described, this pottery sherd could potentially be from several types of Mediterranean or Near Eastern pottery:
 
 1. **Mediterranean Pottery (e.g., Aegean or Minoan):** 
    - The handmade nature of the sherd aligns with the techniques often used in early pottery production.
@@ -123,7 +123,7 @@ Layer: baseline vs. prompted
 > Q2: A sherd is grey, fired in a reducing atmosphere, wheel-thrown, with a burnished surface and rouletted decoration. What kind of pottery could it be?
 
 **Output:**
-> Baseline: Based on your description, it's likely that the sherd is from ancient Roman pottery. Here's why:
+*Baseline*: Based on your description, it's likely that the sherd is from ancient Roman pottery. Here's why:
 
 1. Grey color: Roman pottery often had a grey or brownish color, which was achieved by firing in a reducing atmosphere.
 2. Wheel-thrown: Roman potters used the potter's wheel to create symmetrical shapes, which would be consistent with a wheel-thrown piece.
@@ -131,7 +131,8 @@ Layer: baseline vs. prompted
 4. Rouletted decoration: Rouletting is a technique where a pattern is created by raising small dots of clay, then cutting them off, leaving a raised design. This technique was commonly used in ancient Roman pottery.
 
 The combination of these characteristics suggests that the sherd is likely from Roman pottery, possibly from the 1st or 2nd centuries AD. However, without further information or analysis, it's difficult to pinpoint the exact type of pottery or the specific region it came from.
-> Prompted: Based on the features you provided, I would suggest the following possible ware types:
+
+*Prompted*: Based on the features you provided, I would suggest the following possible ware types:
 
 1. Greek Red-Figure pottery (5th-4th century BCE): The grey colour and burnished surface are consistent with the characteristic appearance of Greek red-figure pottery. The rouletted decoration is also consistent with this type of pottery, as rouletted figures were commonly used in red-figure designs. Additionally, the wheel-thrown shape and firing in a reducing atmosphere are also consistent with the techniques used during this period.
 2. Roman Late Republic/Early Roman pottery (3rd-1st century BCE): Roman pottery from this period often featured burnished surfaces and rouletted decoration, particularly in the Late Republic and Early Roman periods. The grey colour and wheel-thrown shape are also consistent with this type of pottery. However, the exact firing atmosphere is not explicitly stated, and Roman pottery from this period was often fired in a reducing atmosphere, but the exact conditions are not well-documented.
